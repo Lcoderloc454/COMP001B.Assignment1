@@ -1,0 +1,17 @@
+h1 {
+    text-decoration: underline;
+}
+
+.question {
+    font-weight: bolder;
+}
+
+#copyright {
+    font-size: 30px;
+}
+
+img {
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 20px;
+}
